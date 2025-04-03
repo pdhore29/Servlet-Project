@@ -38,7 +38,7 @@
              <td>${std.saddr}</td>
              <td>
              <a href="../WebProject3/Delete/${std.sid}" class="btn btn-lg btn-danger">Delete</a>
-             <a href="../WebProject3/edit/${std.sid}" class="btn btn-lg btn-success">Edit</a>
+             
              </td>
              </tr>
 			</c:forEach>
