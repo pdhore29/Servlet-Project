@@ -1,0 +1,9 @@
+@charset "UTF-8";
+body{
+	background :url("https://plus.unsplash.com/premium_photo-1713296255442-e9338f42aad8?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29sbGVnZXxlbnwwfHwwfHx8MA%3D%3D")
+}
+.container .jumbotron{
+	
+	margin-top:150px;
+	
+}
